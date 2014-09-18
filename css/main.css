@@ -1,0 +1,31 @@
+.intro img{
+    
+    border-radius: 500px 500px 500px 500px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    bottom: 0px;
+    display: none;
+}
+._purple ,._violet{
+    right:0px;
+}
+._black ,._golden{
+    left:0px;
+}
+._golden{
+    z-index: 50;
+    
+}
+.my_gray{
+    background: #FEFEFE;
+}
+
+.intro {
+   
+    height:120px;
+    border: 1px solid transparent;
+}
+.mylogo{
+    display: none;
+}
