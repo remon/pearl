@@ -19,7 +19,7 @@
         <img src="images/black.png" class="_black" />
             <img src="images/golden3.png" class="_golden" />
             
-            <img src="images/violet.png" class="_violet" />
+            <img src="images/golden.png" class="_violet" />
             <img src="images/purple.png" class="_purple" />
         
         </div>
