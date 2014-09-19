@@ -4,6 +4,7 @@
 
 <head>
     <title> Pearl NTEC</title>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/boot.css" />
     <link rel="stylesheet" href="css/links.css" />
     <link rel="stylesheet" href="css/owl.css" />
@@ -17,7 +18,9 @@
     </head>
     
     <body class="my_gray">
+        <img src="images/back_f.png" class="my_b abs" />
     <div class="container ">
+        
         <div class="header relative">
         <img src="images/logo5.png" />
             
@@ -27,8 +30,25 @@
         </div> <!-- end of header-->
         <div class="my_nav wmiya _5br _mgt8">
         <ul class="nv mg">
-            <li> Home </li>
-            <li> Services </li>
+            <li> 
+                
+            Home </li>
+            <li class="relative has_sub"> Services 
+                <span class="my_icon abs">
+                <i class="icon-caret-down"></i>
+                </span>
+            <ul class="nomarging sub_menu">
+                
+                <li> sub menu</li>
+                <li> sub menu</li>
+                <li> sub menu</li>
+                <li> sub menu</li>
+                <li> sub menu</li>
+                
+                
+                </ul>
+            
+            </li>
             <li> Partners </li>
             <li>  Resources & News</li>
             <li> Company </li>
