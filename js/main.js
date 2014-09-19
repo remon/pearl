@@ -9,7 +9,9 @@ $(document).ready(function(){
         purple = $("._purple"),
         golden = $("._golden"),
         logo = $(".mylogo"),
-        logo_width = (tot_width /2) -150;
+        logo_width = (tot_width /2) -150 ,
+    def_time = sub_width * 5,
+        d_time =def_time  ;
     //console.log(sub_width);
     
     
@@ -29,7 +31,7 @@ logo.css({
           $(".mylogo").animate({
             top: "0px",
               left: "0px"
-              },2000,"linear");
+              },def_time,"linear");
    },500);
    
             
@@ -40,19 +42,19 @@ logo.css({
         left :sub_width +"px"
         
         
-        },1000,"linear",function(){
+        },d_time,"linear",function(){
             black.animate({
                 bottom: "0px",
                 top :"60px",
                 left : (sub_width *2 ) +"px"
                 
                 
-                },1000,"linear",function(){
+                },d_time,"linear",function(){
                      black.animate({
                 top: "0px",
                 bottom :"60px",
               left : ((sub_width *3 ) -30) +"px"          
-                     },1000,"linear") ;       
+                     },d_time,"linear") ;       
                 } );
                 
         });
@@ -72,12 +74,12 @@ logo.css({
                 left : (sub_width *2 ) +"px"
                 
                 
-                },1000,"linear",function(){
+                },d_time,"linear",function(){
                      golden.animate({
                 top: "0px",
                 bottom :"60px",
                 left : ((sub_width *3 ) -30) +"px"          
-                     },1000,"linear") ;       
+                     },d_time,"linear") ;       
                 } );
                 
         });
@@ -102,13 +104,13 @@ logo.css({
                 right : (sub_width *2 ) +"px"
                 
                 
-                },1000,"linear",function(){
+                   },d_time,"linear",function(){
                        
     violet.animate({
                 top: "0px",
                 bottom :"70px",
           right: ((sub_width *3 ) -30) +"px"     
-                     },1000,"linear") ;       
+                     },d_time,"linear") ;       
                 } );
                 
         });
@@ -128,12 +130,12 @@ logo.css({
                 right : (sub_width *2 ) +"px"
                 
                 
-                },1000,"linear",function(){
+                 },d_time,"linear",function(){
                    purple.animate({
                 top: "0px",
                 bottom :"70px",
                right: ((sub_width *3 ) -30) +"px"        
-                     },1000,"linear" ,update_layout  ) ;       
+                     },d_time,"linear" ,update_layout  ) ;       
                     
                     
                     
