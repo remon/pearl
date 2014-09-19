@@ -26,7 +26,7 @@
             </span>
         </div> <!-- end of header-->
         <div class="my_nav wmiya _5br _mgt8">
-        <ul class="nv">
+        <ul class="nv mg">
             <li> Home </li>
             <li> Services </li>
             <li> Partners </li>

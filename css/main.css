@@ -39,10 +39,10 @@ body{
     right: 5px;
     
     font-size: 0.95em;
+-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=12, Direction=252, Color=#322e2e)";/*IE 8*/
+text-shadow: -6px 2px 12px #322e2e;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=12, Direction=252, Color=#322e2e); /*IE 5.5-7*/
 
--ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=110, Color=#4b4747)";/*IE 8*/
-text-shadow: 11px 4px 13px #4b4747;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
-filter: progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=110, Color=#4b4747); /*IE 5.5-7*/
 }
 .my_nav ,.myfooter{
     //background-size: 100% auto;
@@ -69,8 +69,11 @@ ul.nv li{
 padding: 15px 18px;
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
-
+ul.nv li:hover{
+    background-color: rgba(0,0,0,0.1);
+}
 .item img{
     width:60%;
     float: left;
