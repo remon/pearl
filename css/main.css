@@ -95,7 +95,8 @@ ul.sub_menu li{
     padding: 5px;
 }
 .my_icon{
-    right:5px;
+    right:2px;
+    top: 33%;
 }
 .item img{
     width:60%;
