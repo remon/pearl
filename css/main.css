@@ -123,6 +123,9 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
 .content_image p{
     color: rgb(170, 170, 170);
 }
+.custom_logo {
+    margin-top: 8px;
+}
 .item_inside{
     width:94%;
     margin:3%;

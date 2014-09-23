@@ -22,9 +22,9 @@
     <div class="container ">
         
         <div class="header relative">
-        <img src="images/logo5.png" />
+        <img src="images/custom_logo2.png" class="custom_logo"/>
             
-            <span class="abs tr_t whity boldy" >
+            <span class="abs tr_t whity boldy" style="display:none;">
                 Negotiation Training ,Education and Consultancy  
             </span>
         </div> <!-- end of header-->
@@ -60,7 +60,7 @@
  
   <div class="item span2 mg wmiya ">
       <div class="item_inside span2">
-      <img src="images/closing-sales-deals.jpg" alt="The Last of us">
+      <img src="images/shutter1m.jpg" alt="The Last of us">
                 
                 <div class="content_image  righty ">
                     <h3 class="site_color">
@@ -77,7 +77,7 @@ for $2 million more than expected.
    
   <div class="item span2 mg wmiya ">
       <div class="item_inside span2">
-      <img src="images/average-deal-size.jpg" alt="The Last of us">
+      <img src="images/shutter2m.jpg" alt="The Last of us">
                 
                 <div class="content_image  righty ">
                     <h3 class="site_color">
@@ -94,7 +94,7 @@ for $2 million more than expected.
   
   <div class="item span2 mg wmiya ">
       <div class="item_inside span2">
-      <img src="images/leaving-money-on-the-table.jpg" alt="The Last of us">
+      <img src="images/shutter3m.jpg" alt="The Last of us">
                 
                 <div class="content_image  righty ">
                     <h3 class="site_color">
@@ -134,4 +134,5 @@ for $2 million more than expected.
     
     
     </body>
+</html>
 </html>
