@@ -3,7 +3,7 @@ body{
     font-family: 'Lato', sans-serif;    
 }
 .jsv{
-    /*font-family: 'Josefin Slab', serif;*/
+    font-family: 'Josefin Slab', serif;
 }
 .bds{
     font-family: 'Bad Script', cursive;
@@ -223,3 +223,61 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
     margin-top: -30px;
 }
 
+.empo{
+    cursor: pointer;
+    opacity: 0.5;
+    background: #F8F8F8;
+    padding: 5px 0px;
+
+    width: 22%;
+    margin: 0px 1.5%;
+}
+.empo img
+ {
+    width: 94%;
+    margin-left: 3%;
+    height: 200px;
+}
+.is_cl{
+    opacity: 1;
+}
+.sub_bio p{
+    padding: 5px 10px;
+}
+.sub_bio h5{
+    margin-left: 10px;
+    text-decoration: underline;
+}
+.sub_bio {
+        /*font-family: 'Josefin Slab', serif;
+    font-weight: bold;*/
+    font-size: 1.15em;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    width: 94%;
+    margin-left: 0px;
+    left: 3%;
+    margin-top: 20px;
+    background: #FBFBFB;
+    color: #245269;
+    position: absolute;
+    display: none;
+}
+
+
+.sub_bio span{
+    position: absolute;
+    	width: 0; 
+	height: 0; 
+	border-left: 20px solid white;
+	border-right: 20px solid white;
+	
+	border-bottom: 20px solid  #FBFBFB;
+    top: -20px;
+    
+}
+.bio_cont{
+    min-height: 500px;
+}
