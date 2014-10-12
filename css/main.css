@@ -1,5 +1,15 @@
 body{
-    font-family: 'Source Sans Pro',"Helvetica Neue",Arial,sans-serif;
+    
+    font-family: 'Lato', sans-serif;    
+}
+.jsv{
+    /*font-family: 'Josefin Slab', serif;*/
+}
+.bds{
+    font-family: 'Bad Script', cursive;
+}
+.stf{
+    font-family: 'Satisfy', cursive;
 }
 .intro img{
     
@@ -66,7 +76,7 @@ ul.nv > li{
     
     list-style: none;
     float: left;
-padding: 15px 18px;
+/*padding: 15px 18px;*/
     color: white;
     font-weight: bold;
     cursor: pointer;
@@ -76,6 +86,9 @@ ul.nv li:hover{
 }
 ul.nv > li.has_sub:hover .sub_menu{
     display: block;
+}
+.has_sub{
+    /*padding-right:22px;*/
 }
 ul.sub_menu{
   background: #C6C0B7;
@@ -95,7 +108,7 @@ ul.sub_menu li{
     padding: 5px;
 }
 .my_icon{
-    right:2px;
+    right:5px;
     top: 33%;
 }
 .item img{
@@ -109,6 +122,8 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=18, Direction=135, Col
     border-radius: 5px;
 }
 .content_image{
+    font-family: 'Bad Script', cursive;
+    
     
     width:30%;
     margin-right:2%;
@@ -148,3 +163,63 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
     z-index: 1;
     top: 30px;
 }
+.mg_t {
+    font-family: 'Satisfy', cursive;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 23px;
+    color: black;
+    line-height: 29px;
+    opacity: 0.6;
+    margin-bottom: 10px;
+    
+}
+
+.content_image em{
+    margin-right: 10px;
+    font-weight: bold;
+}
+.about_div{
+    width:98%;
+    margin-left:1%;
+    margin-bottom: 10px ;
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 5px;
+}
+.about_div h5{
+    text-decoration: underline
+}
+.about_div h6{
+    
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.about_div p{
+    line-height: 30px;
+    
+    margin-left: 25px;
+    font-size: 15px;
+}
+.nv li a{
+    padding: 15px 18px;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color:white;
+    text-decoration: none;
+    outline: none;
+}
+.inner_image{
+    
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+}
+.ino_m{
+    
+    margin-right: 10px;
+    margin-top: -30px;
+}
+
