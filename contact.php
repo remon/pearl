@@ -78,52 +78,13 @@
                 Negotiation Training ,Education and Consultancy  
             </span>
         </div> <!-- end of header-->
-     
-        <div class="my_nav wmiya _5br _mgt8">
-        <ul class="nv mg">
-            <li> 
-                <a href="/">
-            Home </a></li>
-            <li>
-                <a href="/about.html">
-                About us
-                </a>
-                </li>
-          
-             <li class="relative has_sub">
-                <a href="/services.html">
-                Services 
-      </a>
-            
-            </li><!--end of services-->
-              <li>
-                  <a href="/parteners.html">
-                  Partners
-                  </a>
-                  </li>
-            <li>
-                <a href="/experts.html">
-                Experts
-                </a>
-                </li>
-             <li>
-                  <a href="/news.html">
-                News & updates
-                </a>
-                </li>
-            <li>
-                <a href="/resources.html">
-                Resources
-                </a>
-                </li>
-            <li> 
-                <a href="/contact.html">
-                Contact us
-                </a>
-                </li>
-         
-            </ul>
-        </div>
+          <?php
+
+include 'bar.php';
+
+
+
+?>
         
         <div class="span2 mg wmiya whiteback _mgt8 lit _5br" style="padding-top: 20px;">
             <div class="span2 mg _50">
@@ -145,16 +106,13 @@
         
              </div>
 
-             <div class="span2 mg wmiya myfooter  _5br">
-        <div id="text-3" class="widget widget_text _30">
-            
-            <h5 class="whity h_5">Explore</h5>			<div class="textwidget">
-<ul >
+                     <?php
 
-</ul>
-</div>
-		</div>
-        </div>
+include 'footer.php';
+
+
+
+?>
         </div><!--end of container -->
     
     

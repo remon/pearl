@@ -1,3 +1,6 @@
+  
+@font-face {font-family: 'CallunaSans-Regular';src: url('webfonts/2C46BA_0_0.eot');src: url('webfonts/2C46BA_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C46BA_0_0.woff') format('woff'),url('webfonts/2C46BA_0_0.ttf') format('truetype');}
+
 body{
     
     font-family: 'Lato', sans-serif;    
@@ -60,9 +63,12 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=12, Direction=252, Col
     background-size: 100%;
     display: inline-block;
 }
-.myfooter{
+.myfooter {
     margin-top: 20px;
+    padding: 10px 0px;
+    font-size: 1.15em;
 }
+
 .myfooter ul li{
     list-style: none;
 }
@@ -187,7 +193,20 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
     padding-bottom: 5px;
 }
 .about_div h5{
-    text-decoration: underline
+	text-decoration:underline;
+}
+.about_div h5.abt{
+	text-decoration:none;
+    
+    float: left;
+    padding: 8px 10px;
+    color: white;
+    background: url("../images/tt_3.png") no-repeat scroll 0% 0% transparent;
+    background-size: 100%;
+font-family: 'CallunaSans-Regular';
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
 }
 .about_div h6{
     
@@ -196,12 +215,17 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
 }
 
 .about_div p{
+	color: #6E6E70;
     line-height: 30px;
     
     margin-left: 25px;
     font-size: 15px;
 }
+.about_div li{
+	color: #6E6E70;
+}
 .nv li a{
+	font-size: 1.1em;
     padding: 15px 18px;
     display: inline-block;
     width: 100%;
@@ -278,7 +302,6 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
     top: -20px;
     
 }
-
 .bio_cont{
     height: 350px;
 }

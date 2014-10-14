@@ -3,6 +3,7 @@
 <html>
 
 <head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title> Pearl NTEC</title>
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css" />
     <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,600italic' rel='stylesheet' type='text/css'>
@@ -30,56 +31,19 @@
             </span>
         </div> <!-- end of header-->
      
-        <div class="my_nav wmiya _5br _mgt8">
-        <ul class="nv mg">
-            <li> 
-                <a href="/">
-            Home </a>
-            
-            </li>
-            <li>
-                <a href="/about.html">
-                About us
-                </a>
-                </li>
-           <li class="relative has_sub">
-                <a href="/services.html">
-                Services 
-      </a>
-            
-            </li><!--end of services-->
-              <li>
-                  <a href="/parteners.html">
-                  Partners
-                  </a>
-                  </li>
-             <li>
-                <a href="/experts.html">
-                Experts
-                </a>
-                </li>
-            <li>
-                <a href="/news.html">
-                News & updates
-                </a>
-                </li>
-            <li>
-                <a href="/resources.html">
-                Resources
-                </a>
-                </li>
-            <li> 
-                <a href="/contact.html">
-                Contact us
-                </a>
-                </li>
-         
-            </ul>
-        </div>
+       <?php
+
+include 'bar.php';
+
+
+
+?>
         
         <div class="span2 mg wmiya whiteback _mgt8 lit _5br" style="padding-top: 20px;">
                       <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy ">The Founder and CEO</h5>
+                      	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt">The Founder and CEO</h5>
+</div>
                           <h6>Dr. Cherine Soliman</h6>
             <p>
                 Experienced Negotiation Specialist and Consultant, MBA, MSc and PhD in Negotiation Science
@@ -91,7 +55,9 @@ field of negotiation management and enhancement.
             </p>
                 </div>
             <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy "> About us</h5>
+            	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> About us</h5>
+</div>
             <p>
             Pearl Negotiation Training, Education and Consultancy (NTEC) is the first specialized business unit in
 the Middle East established to provide high quality negotiation training and consultancy services
@@ -101,14 +67,18 @@ Management.
             </p>
                 </div>
                      <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy "> Vision</h5>
+                     	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Vision</h5>
+</div>
             <p>
      Our vision is to become your most trusted business consultancy partner in Egypt and the Middle
 East for negotiation services.
             </p>
                 </div>
                    <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy "> Mission</h5>
+                   	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Mission</h5>
+</div>
             <p>
    Our mission is to design and deliver high impact negotiation development programs among a
 wide range of consultancy support services to produce outstanding human performance in your
@@ -117,7 +87,9 @@ continuously empower your human capital.
             </p>
                 </div><!--end of about_div-->
                             <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy "> Commitment</h5>
+                            	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Commitment</h5>
+</div>
             <p>
                 <ul>
 <li> Understand your business needs .</li>
@@ -130,7 +102,9 @@ business transaction .</li>
             </p>
                 </div><!--end of about_div-->
                               <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy ">     why Pearl NTEC </h5>
+                              	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt">     why Pearl NTEC </h5>
+</div>
             <p>
     <ul>
 <li> 1st specialized provider in Negotiation services in the Middle East .</li>
@@ -144,18 +118,15 @@ business transaction .</li>
                 </div><!--end of about_div-->
         
              </div>
+<?php
 
+include 'footer.php';
+
+
+
+?>
         
-             <div class="span2 mg wmiya myfooter  _5br">
-        <div id="text-3" class="widget widget_text _30">
-            
-            <h5 class="whity h_5">Explore</h5>			<div class="textwidget">
-<ul >
-
-</ul>
-</div>
-		</div>
-        </div>
+         
         </div><!--end of container -->
     
     
