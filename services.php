@@ -39,7 +39,10 @@ include 'bar.php';
 ?>
         <div class="span2 mg wmiya whiteback _mgt8 lit _5br" style="padding-top: 20px;">
                       <div class="span2 about_div">
-<h5 class="jsv _15f _mgl5 boldy ">Business Catalogue  </h5>
+                      	<div class="span2 mg wmiya">
+                      		   <img src="/images/main_pearl.png" class="inner_image"/>
+<h5 class="jsv _15f _mgl5 boldy lk">Business Catalogue  </h5>
+</div>
                           
             <p >
         Good negotiation practice impacts almost every fact of your business: marketing, sales,
@@ -51,7 +54,7 @@ impact on your organization’s internal and external negotiations and overall p
             <div class="span2 about_div">
                 <div class="span2 mg wmiya">
                     <img src="/images/pink_pearl2.png" class="inner_image"/>
-<h5 class="jsv _15f _mgl5 boldy " style="color:#F387B7;"> I. Negotiation Training:</h5>
+<h5 class="jsv _15f _mgl5 boldy lk" style="color:#F387B7;"> I. Negotiation Training:</h5>
                     </div>
             <p>
    Our training courses emphasize on real world context and applications.
@@ -95,7 +98,7 @@ negotiations, maximizing on both cooperative and competitive strategies .</li>
              <div class="span2 about_div">
                 <div class="span2 mg wmiya">
                     <img src="/images/black_pearl2.png" class="inner_image"/>
-<h5 class="jsv _15f _mgl5 boldy " style="color:#6E6E70;"> II. Negotiation Consultancy:</h5>
+<h5 class="jsv _15f _mgl5 boldy lk" style="color:#6E6E70;"> II. Negotiation Consultancy:</h5>
                     </div>
             <p>
 Organizations reply on negotiations to succeed in today’s global
@@ -124,7 +127,7 @@ approach includes:
            <div class="span2 about_div">
                 <div class="span2 mg wmiya" style="margin-bottom: 20px;">
                     <img src="/images/blue_pearl2.png" class="inner_image"/>
-<h5 class="jsv _15f _mgl5 boldy " style="color:#6E9ABC;"> III. Negotiation Education:</h5>
+<h5 class="jsv _15f _mgl5 boldy lk" style="color:#6E9ABC;"> III. Negotiation Education:</h5>
                     </div>
             <p>
                 
@@ -140,7 +143,7 @@ in France, more details will be available soon.
                  <div class="span2 about_div">
                 <div class="span2 mg wmiya" style="margin-bottom: 20px;">
                     <img src="/images/green_pearl2.png" class="inner_image"/>
-<h5 class="jsv _15f _mgl5 boldy " style="color:#83B282;">IV. Negotiation Process Engineering</h5>
+<h5 class="jsv _15f _mgl5 boldy lk" style="color:#83B282;">IV. Negotiation Process Engineering</h5>
                     </div>
             <p>
                 

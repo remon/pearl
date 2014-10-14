@@ -195,6 +195,10 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
 .about_div h5{
 	text-decoration:underline;
 }
+.lk{
+	display:inline-block;
+	margin-top: 15px;
+}
 .about_div h5.abt{
 	text-decoration:none;
     
