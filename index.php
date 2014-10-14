@@ -128,17 +128,12 @@
         content
         </div>
         
-        <div class="span2 mg wmiya myfooter  _5br">
+              <div class="span2 mg wmiya myfooter  _5br">
         <div id="text-3" class="widget widget_text _30">
             
             <h5 class="whity h_5">Explore</h5>			<div class="textwidget">
 <ul >
-<li ><a  href="#">K&amp;R By the Numbers</a></li>
-<li ><a  href="#">K&amp;R By the Numbers</a></li>
-    <li ><a  href="#">K&amp;R By the Numbers</a></li>
-    <li ><a  href="#">K&amp;R By the Numbers</a></li>
-    <li ><a  href="#">K&amp;R By the Numbers</a></li>
-    <li ><a  href="#">K&amp;R By the Numbers</a></li>
+
 </ul>
 </div>
 		</div>
