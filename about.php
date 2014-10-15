@@ -91,8 +91,8 @@ continuously empower your human capital.
 <h5 class="jsv _15f _mgl5 boldy abt"> Commitment</h5>
 </div>
             <p>
-                <ul>
-<li> Understand your business needs .</li>
+                <ul class="cl">
+<li> Understand your business needs . </li>
 <li> Design and deliver high impact training .</li>
 <li> Develop and implement powerful reinforcement programs.</li>
 <li> Track and measure for continuous improvement and sustainability.</li>
@@ -106,7 +106,7 @@ business transaction .</li>
 <h5 class="jsv _15f _mgl5 boldy abt">     why Pearl NTEC </h5>
 </div>
             <p>
-    <ul>
+ <ul class="cl">
 <li> 1st specialized provider in Negotiation services in the Middle East .</li>
 <li> 1st to tailor the training design and content to region specific characteristics .</li>
 <li> 1st to apply proof tested European negotiation training methodology and tools .</li>

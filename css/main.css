@@ -199,6 +199,10 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Colo
 	display:inline-block;
 	margin-top: 15px;
 }
+ul.cl li{
+	float:left;
+	width:100%;
+}
 .about_div h5.abt{
 	text-decoration:none;
     
