@@ -1,0 +1,128 @@
+  
+@font-face {font-family: 'CallunaSans-Regular';src: url('webfonts/2C46BA_0_0.eot');src: url('webfonts/2C46BA_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2C46BA_0_0.woff') format('woff'),url('webfonts/2C46BA_0_0.ttf') format('truetype');}
+
+body{
+    padding-top:65px;
+    font-family: 'Lato', sans-serif;    
+}
+.jsv{
+    font-family: 'Josefin Slab', serif;
+}
+.bds{
+    font-family: 'Bad Script', cursive;
+}
+.stf{
+    font-family: 'Satisfy', cursive;
+}
+
+.top_banner{
+	
+    height: 60px;
+    /*
+    background-color: transparent;
+    background-image: url("../images/tt_3.png");
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+*/
+    background: #333333;
+    position: absolute;
+    top: 0px;
+
+}
+#simple-menu i{
+	
+    font-size: 2.5em;
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+.item_inside{
+	position:relative;
+	width:100%;
+	margin-left:0px; 
+}
+.item_inside img{
+	width:100%;
+}
+.content_image {
+    position: absolute;
+    width: 99%;
+    bottom: 0px;
+    
+    color: white;
+    font-size: 0.9em;
+    font-weight:normal;
+    padding: 5px 1%;
+    right:0px;
+    
+    background: rgba(0,0,0,0.5);
+}
+.about_div{
+    width:98%;
+    margin-left:1%;
+    margin-bottom: 10px ;
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 5px;
+}
+.about_div h5{
+	text-decoration:underline;
+}
+.about_div img.righty{
+	display: none;
+}
+.lk{
+	display:inline-block;
+	margin-top: 15px;
+}
+ul.cl li{
+	float:left;
+	width:100%;
+}
+.about_div h5.abt{
+	text-decoration:none;
+    
+    float: left;
+    padding: 8px 10px;
+    color: white;
+    background: url("../images/tt_3.png") no-repeat scroll 0% 0% transparent;
+    background-size: 100%;
+font-family: 'CallunaSans-Regular';
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.about_div h6{
+    
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.about_div p{
+	color: #6E6E70;
+    line-height: 30px;
+    
+    margin-left: 25px;
+    font-size: 15px;
+}
+.about_div li{
+	color: #6E6E70;
+}
+.custom_logo{
+	width:95%;
+	margin-left:2.5%;
+}
+.empo img{
+	width:90%;
+	margin-bottom:15px;
+	margin-left:5%;
+}
+.empo h5{
+	font-size:1.5em;
+	margin-top:15px;
+	margin-bottom:10px;
+}

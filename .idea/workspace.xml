@@ -2,8 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="514dc19e-9290-4a0d-94d5-76fb7fd727af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/header.php" afterPath="$PROJECT_DIR$/mobile/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/webfonts/2C46BA_0_0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/webfonts/2C46BA_0_0.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/webfonts/2C46BA_0_0.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/arn.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/arny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/average-deal-size.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/back2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/back_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/back_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/black_pearl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/black_pearl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/blue pearl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/blue pearl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/blue_pearl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/closing-sales-deals.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/custom_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/custom_logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/exo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/golden2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/golden3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/green pearl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/green_pearl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/landing-the-deal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/leaving-money-on-the-table.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo (2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/logo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/main_pearl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/nicolas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p1_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p2_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/p3_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/partial_stagedL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/peter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/pink_pearl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/pink_pearl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/pint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/shutter1m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/shutter2m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/shutter3m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/tt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/tt_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/tt_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/violet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/watermark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/watermark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/images/Microsoft Office.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/bar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/boot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/experts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/heado.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/ismobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/links.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/news.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/owl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/owl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/parteners.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/resources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/services.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/css/sidr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/sidr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/black/js/site.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/htdocs.iml" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="htdocs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,8 +110,76 @@
   <component name="FavoritesManager">
     <favorites_list name="htdocs" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bar.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black/bar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7" vertical-offset="68" max-vertical-offset="918">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="2499">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidr.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black/css/sidr.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/black/css/mobile.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9137056" vertical-offset="150" max-vertical-offset="2278">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/black/bar.php" />
+        <option value="$PROJECT_DIR$/black/css/sidr.css" />
+        <option value="$PROJECT_DIR$/black/css/mobile.css" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
@@ -38,7 +193,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -66,6 +221,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="black" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="black" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -74,10 +303,74 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\black\css" />
+      <recent name="C:\xampp\htdocs\black" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="514dc19e-9290-4a0d-94d5-76fb7fd727af" name="Default" comment="" />
@@ -87,15 +380,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1346" height="728" extended-state="1" />
-    <editor active="false" />
+    <frame x="10" y="0" width="1346" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -103,12 +397,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -128,6 +424,72 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobile/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="2346">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black/css/owl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black/bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7" vertical-offset="68" max-vertical-offset="918">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="2499">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black/css/sidr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9137056" vertical-offset="150" max-vertical-offset="2278">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
