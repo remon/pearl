@@ -34,9 +34,9 @@
                 // Only redirect if the user didn't previously choose
                 // to explicitly view the full site. This is validated
                 // by checking if a "noredirect" cookie exists
-                if ( document.cookie.indexOf(NO_REDIRECT) === -1 ) {
+                //if ( document.cookie.indexOf(NO_REDIRECT) === -1 ) {
                     document.location = MOBILE_SITE;
-                }
+                //}
             }
         })();
     </script>
