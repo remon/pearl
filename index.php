@@ -17,6 +17,29 @@
     
     
     <script src="js/jquery.js" ></script>
+    <script src="/js/ismobile.js"></script>
+        <script>
+        // Minified version of isMobile included in the HTML since it's <1kb
+        
+
+
+        // My own arbitrary use of isMobile, as an example
+        (function () {
+            var MOBILE_SITE = '/mobile/index.php', // site to redirect to
+                NO_REDIRECT = 'noredirect'; // cookie to prevent redirect
+
+            // I only want to redirect iPhones, Android phones and a handful of 7" devices
+            if ((isMobile.apple.phone || isMobile.android.phone || isMobile.seven_inch)) {
+//alert("mobile");
+                // Only redirect if the user didn't previously choose
+                // to explicitly view the full site. This is validated
+                // by checking if a "noredirect" cookie exists
+                if ( document.cookie.indexOf(NO_REDIRECT) === -1 ) {
+                    document.location = MOBILE_SITE;
+                }
+            }
+        })();
+    </script>
     <script src="js/owl.js" ></script>
     <script src="js/site.js" ></script>
     </head>
