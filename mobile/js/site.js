@@ -42,6 +42,6 @@ $(document).ready(function() {
 });
 $( window ).resize(function() {
   
-  //          $.sidr('close', 'sidr');        
+         $.sidr('close', 'sidr');
 
 });
