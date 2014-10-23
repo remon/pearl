@@ -33,11 +33,21 @@ body{
     z-index: 50;
     
 }
-.my_gray{
-    /*background: #FEFEFE;*/
-    background: url("../images/back2.png") no-repeat scroll center top rgb(133, 133, 133);
+.big_head{
+	font-family: 'Black Ops One', cursive;
 }
+.pearl_header{
+	
+    font-size: 1.1em;
+    opacity: 0.8;
+    letter-spacing: 2px;
 
+}
+.header_small{
+    font-size: 0.9em;
+    color: #A4A4A4;
+
+}
 .intro {
    
     height:120px;
@@ -58,9 +68,7 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=12, Direction=252, Col
 
 }
 .my_nav ,.myfooter{
-    //background-size: 100% auto;
-    background: url("../images/tt_3.png") no-repeat scroll 100% 0% transparent;
-    background-size: 100%;
+background:#EDEDEE;
     display: inline-block;
 }
 .myfooter {
@@ -82,13 +90,96 @@ ul.nv > li{
     
     list-style: none;
     float: left;
-/*padding: 15px 18px;*/
-    color: white;
-    font-weight: bold;
+padding:3px 0px;
     cursor: pointer;
 }
 ul.nv li:hover{
-    background-color: rgba(0,0,0,0.1);
+    background-color: #6E6E70;
+}
+ul.nv li:hover a{
+    color: white;
+}
+#featured li img{
+	height:310px;
+	width: 100%;
+	cursor: pointer;
+	
+}
+.contr{
+	
+    font-size: 1.5em;
+    line-height: 30px;
+    background: rgba(0,0,0,0.5);
+
+    position: absolute;
+    width: 95%;
+    bottom: 0px;
+    padding: 5px 2.5%;
+
+}
+.index_content h1{
+	
+    line-height: 22px;
+    color: #6E9ABC;
+
+}
+.inner_t {
+    width: 80%;
+    margin-left: 20%;
+}
+
+.index_content{
+	margin-bottom:60px;
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 10px;
+
+}
+.first_ch{
+	
+    background: #83B282;
+    
+    padding: 2px 10px;
+    
+
+}
+.w_po{
+	
+    font-size: 1.1em;
+    line-height: 25px;
+
+}
+.left_ban li{
+	list-style: none;
+	
+    
+    text-align: center;
+    padding: 6px 0px;
+    text-transform: uppercase;
+
+
+}
+._1{
+	background: #90A362;
+}
+._2{
+	background:#C43B28;
+}
+._3{
+	background:#9A7081;
+}
+._4{
+	background:#6E9ABC;
+}
+._5{
+	background:#186C8A;
+}
+._6{
+	background:#6E6E70;
+}
+.left_ban li a{
+	color:white;
+	font-size: 0.9em;
 }
 ul.nv > li.has_sub:hover .sub_menu{
     display: block;
@@ -233,14 +324,21 @@ border-radius: 5px;
 	color: #6E6E70;
 }
 .nv li a{
-	font-size: 1.1em;
-    padding: 15px 18px;
+	border-right: 1px solid rgba(0,0,0,0.1);
+	font-size: 0.8em;
+	color:#666666;
+	font-weight: 700;
+	letter-spacing:1px;
+padding: 0px 12px;
     display: inline-block;
-    width: 100%;
+ text-transform: uppercase;
     height: 100%;
-    color:white;
+
     text-decoration: none;
     outline: none;
+}
+.nv li:last-child a{
+	border-right:none;
 }
 .inner_image{
     

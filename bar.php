@@ -1,4 +1,4 @@
- <div class="my_nav wmiya _5br _mgt8">
+ <div class="my_nav wmiya  _mgt8">
         <ul class="nv mg">
             <li> 
                 <a href="/">
