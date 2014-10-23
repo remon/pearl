@@ -12,8 +12,7 @@
     <link href='http://fonts.googleapis.com/css?family=Bad+Script|Satisfy' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/boot.css" />
     <link rel="stylesheet" href="css/links.css" />
-    <link rel="stylesheet" href="css/owl.css" />
-    <link rel="stylesheet" href="css/owl.theme.css" />
+
     <link rel="stylesheet" href="css/main.css" />
     
     
