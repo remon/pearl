@@ -17,7 +17,7 @@
     
     
     <script src="js/jquery.js" ></script>
-    <script src="/js/easing.js"></script>
+
     <script src="/js/ismobile.js"></script>
         <script>
         // Minified version of isMobile included in the HTML since it's <1kb
@@ -41,7 +41,7 @@
             }
         })();
     </script>
-    <script src="js/jquery.collapse.js"></script>
+
     <script src="js/site_m.js" ></script>
     </head>
     

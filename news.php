@@ -41,7 +41,7 @@
             }
         })();
     </script>
-    <script src="js/jquery.collapse.js"></script>
+
     <script src="js/site_m.js" ></script>
     </head>
     
