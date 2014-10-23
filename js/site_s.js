@@ -7,7 +7,8 @@ $("#featured").zAccordion({
 		width: 900,
 		auto: true, /* Whether or not the slideshow should play automatically. */
 trigger: "mouseenter",
-		height: 310
+		height: 310,
+		slideClass: "fry"
 	});
  
 });

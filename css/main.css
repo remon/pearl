@@ -105,8 +105,12 @@ ul.nv li:hover a{
 	cursor: pointer;
 	
 }
-.contr{
+.fry-closed .contr{
+	opacity:0.1;
 	
+}
+.contr{
+	opacity:1;
     font-size: 1.5em;
     line-height: 30px;
     background: rgba(0,0,0,0.5);
