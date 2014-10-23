@@ -41,7 +41,7 @@
             }
         })();
     </script>
-    <script src="js/jquery.collapse.js"></script>
+    
     <script src="js/site_m.js" ></script>
     </head>
     
@@ -71,15 +71,10 @@ include 'bar.php';
         		
         	<img src="images/shutter1m.jpg" class="cat_image wmiya">
         	</div>
-        	
-        	<div id="custom-markup-example" class="span2 mg wmiya">
                       <div class="span2 about_div">
-                      	
-<h5 class="_15f _mgl5 boldy abt">The Founder and CEO
-	<i class="icon-plus righty"></i>
-	</h5>
-
-  <div class="content span2 mg wmiya">
+                      	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt">The Founder and CEO</h5>
+</div>
                           <h6>Dr. Cherine Soliman</h6>
             <p>
                 Experienced Negotiation Specialist and Consultant, MBA, MSc and PhD in Negotiation Science
@@ -89,12 +84,11 @@ different countries, 5 years working experience in the United Nations, global pr
 cross culture management experience, author of a number of international publications all in the
 field of negotiation management and enhancement.
             </p>
-            </div>
                 </div>
             <div class="span2 about_div">
-            	
-<h5 class="_15f _mgl5 boldy abt"> About us  	<i class="icon-plus righty"></i></h5>
- <div class="content span2 mg wmiya">
+            	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> About us</h5>
+</div>
             <p>
             Pearl Negotiation Training, Education and Consultancy (NTEC) is the first specialized business unit in
 the Middle East established to provide high quality negotiation training and consultancy services
@@ -102,34 +96,31 @@ to individuals and organizations of all sizes within the private and public sect
 We aim at enabling Organizations to leverage its Corporate Communication and Negotiation
 Management.
             </p>
-            </div>
                 </div>
                      <div class="span2 about_div">
-                     
-<h5 class="_15f _mgl5 boldy abt"> Vision 	<i class="icon-plus righty"></i></h5>
- <div class="content span2 mg wmiya">
+                     	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Vision</h5>
+</div>
             <p>
      Our vision is to become your most trusted business consultancy partner in Egypt and the Middle
 East for negotiation services.
             </p>
-            </div>
                 </div>
                    <div class="span2 about_div">
-                
-<h5 class="_15f _mgl5 boldy abt"> Mission 	<i class="icon-plus righty"></i></h5>
- <div class="content span2 mg wmiya">
+                   	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Mission</h5>
+</div>
             <p>
    Our mission is to design and deliver high impact negotiation development programs among a
 wide range of consultancy support services to produce outstanding human performance in your
 organizations. We aim at creating a smart long term partnership with you and are committed to
 continuously empower your human capital.
             </p>
-            </div>
                 </div><!--end of about_div-->
                             <div class="span2 about_div">
-                            
-<h5 class="_15f _mgl5 boldy abt"> Commitment	<i class="icon-plus righty"></i> </h5>
- <div class="content span2 mg wmiya">
+                            	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt"> Commitment</h5>
+</div>
             <p>
                 <ul class="cl">
 <li> Understand your business needs . </li>
@@ -140,12 +131,11 @@ continuously empower your human capital.
 business transaction .</li>
                     </ul>
             </p>
-            </div>
                 </div><!--end of about_div-->
                               <div class="span2 about_div">
-                             
-<h5 class="_15f _mgl5 boldy abt">     why Pearl NTEC 	<i class="icon-plus righty"></i></h5>
- <div class="content span2 mg wmiya">
+                              	<div class="span2 mg wmiya">
+<h5 class="jsv _15f _mgl5 boldy abt">     why Pearl NTEC </h5>
+</div>
             <p>
  <ul class="cl">
 <li> 1st specialized provider in Negotiation services in the Middle East .</li>
@@ -156,9 +146,8 @@ business transaction .</li>
 <li> We offer a free longitudinal follow- up and Return on Investment .</li>
                                   </ul>
             </p>
-            </div>
                 </div><!--end of about_div-->
-        </div><!--end of acc-->
+        
              </div>
 <?php
 
@@ -167,18 +156,8 @@ include 'footer.php';
 
 
 ?>
-     
-         <script>
-         	  $("#custom-markup-example").collapse({
-          query: ".about_div h5"
-        }).bind("open", function(e, section) {
-            section.$summary.find("i").removeClass("icon-plus").addClass("icon-minus");
-          })
-          .bind("close", function(e, section) {
-           section.$summary.find("i").removeClass("icon-minus").addClass("icon-plus");
-          });
-        $('#custom-markup-example a').first().click()
-         </script>
+        
+         
         </div><!--end of container -->
     
     
