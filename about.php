@@ -41,9 +41,8 @@
             }
         })();
     </script>
-    <script src="js/jquery.zaccordion.min.js" ></script>
     
-    <script src="js/site_s.js" ></script>
+    <script src="js/site_m.js" ></script>
     </head>
     
     <body class="my_gray">
@@ -68,7 +67,7 @@ include 'bar.php';
 ?>
         
         <div class="span2 mg wmiya whiteback _mgt8 lity _5br" >
-        	<div class="span2 mg wmiya">
+        	<div class="span2 mg wmiya _mgb5">
         		
         	<img src="images/shutter1m.jpg" class="cat_image wmiya">
         	</div>
