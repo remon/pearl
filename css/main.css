@@ -338,6 +338,10 @@ width: 95%;
     margin-left: 25px;
     font-size: 15px;
 }
+#custom-markup-example .about_div p ,#custom-markup-example .about_div li{
+	color:black;
+	
+}
 .about_div li{
 	color: #6E6E70;
 }

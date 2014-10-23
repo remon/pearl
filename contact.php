@@ -3,13 +3,17 @@
 <html>
 
 <head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title> Pearl NTEC</title>
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css" />
     <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,600italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700,300italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Black+Ops+One' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Bad+Script|Satisfy' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/boot.css" />
     <link rel="stylesheet" href="css/links.css" />
+
+    <link rel="stylesheet" href="css/main.css" />
    <style type="text/css">
        #map-canvas { 
            height: 300px;margin-top: 5%; width: 40%;float: right; margin-right: 50px;
@@ -25,7 +29,7 @@
         }
    #map-canvas img { max-width:none; }
     </style>
-    <link rel="stylesheet" href="css/main.css" />
+ 
     
     
     <script src="js/jquery.js" ></script>
@@ -67,18 +71,20 @@
     </script>
     </head>
     
-    <body class="my_gray">
-        <img src="images/back_f.png" class="my_b abs"  style="display:none;"/>
+     <body class="my_gray">
+ 
     <div class="container ">
         
-        <div class="header relative">
-        <img src="images/custom_logo2.png" class="custom_logo"/>
-            
-            <span class="abs tr_t whity boldy" style="display:none;">
-                Negotiation Training ,Education and Consultancy  
-            </span>
+        <div class="header relative _mgt15">
+       <span class="lefty inline_b " style="margin-top: 20px;">
+       	<span class="pearl_header  big_head">PEARL</span>
+       	<span class="ntec big_head header_small">NTEC</span>
+       </span>
+       
+            <img src="/images/small_pearl.png" class="righty s_p" />
+     
         </div> <!-- end of header-->
-          <?php
+                      <?php
 
 include 'bar.php';
 
@@ -86,7 +92,7 @@ include 'bar.php';
 
 ?>
         
-        <div class="span2 mg wmiya whiteback _mgt8 lit _5br" style="padding-top: 20px;">
+        <div class="span2 mg wmiya whiteback _mgt8 lity _5br" >
             <div class="span2 mg _50">
                 <h4 style="margin-top:50px; text-align:center;">
             Address of pearl Ntec    
